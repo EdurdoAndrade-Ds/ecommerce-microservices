@@ -66,7 +66,7 @@ src/main/java/com/ecommerce/<servico>/
 - Eureka Server (Service Discovery)
 - Docker / Docker Compose
 - RabbitMQ (Notificações)
-- PostgreSQL / H2
+- MYSQL / H2
 
 ---
 
