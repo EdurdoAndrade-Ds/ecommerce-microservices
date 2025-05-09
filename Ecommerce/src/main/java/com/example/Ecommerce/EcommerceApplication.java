@@ -1,14 +1,13 @@
-package com.example.API_Gataway;
+package com.example.Ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiGatawayApplication {
+public class EcommerceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiGatawayApplication.class, args);
-
+		SpringApplication.run(EcommerceApplication.class, args);
 	}
 
 }
